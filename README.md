@@ -68,8 +68,8 @@ Axplore BCA helps students and teachers share academic resources in one place. T
 ### Installation
 
 ```bash
-git clone https://github.com/2friendly291015/axploreBCA-Startup.git
-cd axploreBCA-Startup/"Axplore Final Project"
+git clone https://github.com/2friendly291015/axplore-bca.git
+cd axplore-bca/"Axplore Final Project"
 npm install
 cd AxploreBCA
 npx expo start
@@ -85,7 +85,7 @@ npx expo start
 ## Project Structure
 
 ```text
-axploreBCA-Startup/
+axplore-bca/
 |-- README.md
 |-- Axplore Final Project/
 |   |-- package.json
